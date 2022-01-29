@@ -1,5 +1,5 @@
 # Trello.php
-Add new card to Trello via PHP.
+Add new card to Trello with PHP.
 
 Example of usage:
 
